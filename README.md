@@ -1,0 +1,1 @@
+Este repositorio trata sobre un ejemplo práctico de carga, exploración, limpieza y visualización básica de un dataset
